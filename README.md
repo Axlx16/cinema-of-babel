@@ -1,1 +1,2 @@
-# cinema-of-babel
+# Cinema-of-Babel
+Inspired by the Library of Babel
